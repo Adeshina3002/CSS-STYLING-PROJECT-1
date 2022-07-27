@@ -1,0 +1,86 @@
+body {
+    background-color: #004643;
+    color: #f6be9a;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+a {
+    color: #fff;
+    font-size: 20px;
+}
+
+p {
+    line-height: 30px;
+}
+
+.hero {
+    font-size: 40px;
+    width: 70%;
+}
+
+.hero h1 {
+    text-decoration: underline;
+    margin-left: 30px;
+    line-height: 100px;
+}
+
+.hero p {
+    text-align: center;
+    border: 2px solid #fff;
+    padding: 20px;
+    margin-left: 35%;
+    font-size: 28px;
+    line-height: 30px;
+    border-radius: 10px;
+}
+
+.hero-2 {
+    margin-top: 90px;
+}
+
+.hero-2 h2 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.hero-2 span {
+    font-size: 40px;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.hero-2 p {
+    margin: 30px 80px;
+    font-size: 22px;
+    line-height: 40px;
+    border: none;
+    border-radius: 20px;
+}
+
+.data table {
+    margin-left: 33%;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.data h2 {
+    text-align: center;
+    margin-top: 40px;
+}
+
+th, td {
+    font-size: 28px;
+    border: 2px solid #ddd;
+}
+
+.navi {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.navi p {
+    text-align: center;
+    font-size: 28px;
+    padding: 20px 0px 20px 0px;
+}
